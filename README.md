@@ -16,7 +16,7 @@ This tutorial outlines the creation of SLAs and tickets as if I were on the job.
 
 - Windows 10</b> (21H2)
 
-Creating a ticket as an Admin
+<h2>Creating a ticket as an Admin<h2</h2>
 
 <p>
 <img width="586" alt="image" src="https://github.com/Jaxon-S/ticket-lifecycle/assets/154096378/52f067f5-5889-480b-971f-e74a090d8a2c">
